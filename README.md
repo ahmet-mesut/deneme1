@@ -1,2 +1,2 @@
 # deneme1
-##kodluoruz ödev çalışması
+## kodluoruz ödev çalışması
